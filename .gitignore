@@ -2,4 +2,4 @@
 config.js 
 Food-App-main/ 
 #*.txt 
-temp/
+/temp
